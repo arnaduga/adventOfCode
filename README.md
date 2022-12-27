@@ -8,4 +8,4 @@ Initially started (but not finish) the 2020 challenge (the year I discovered it)
 
 * [Day 01](./2015/day_01/main.go)
 * [Day 02](./2015/day_02/main.go)
-* [Day 03, part 1](./2015/day_03/part1.go), [part 2](./2015/day_03/part2.go)
+* Day 03: [part 1](./2015/day_03/part1.go), [part 2](./2015/day_03/part2.go)
